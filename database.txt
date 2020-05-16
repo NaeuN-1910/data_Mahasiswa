@@ -1,0 +1,5 @@
+2019110001,Uchiha Udin,Teknik Informatika
+2019110002,Uzumaki Ucup,Teknik Informatika
+2019110003,Leonardo Sarimin,Teknik Informatika
+2019210020,saske,Teknik Elektro
+2020310020,narto,Teknik Elektro
